@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-google-analytics",
+  "name": "cordova-plugin-google-analytics-autodisk",
   "version": "1.9.2",
   "description": "Google Universal Analytics Plugin",
   "cordova": {

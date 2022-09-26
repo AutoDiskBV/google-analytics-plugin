@@ -1,4 +1,4 @@
-declare class UniversalAnalyticsPlugin {
+export declare class UniversalAnalyticsPlugin {
 
 	/** In your 'deviceready' handler, call this to set up your Analytics tracker,
 		where id is your Google Analytics Mobile App property */
